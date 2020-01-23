@@ -15,6 +15,7 @@
 		835C3BB723D99824000B2E9F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 835C3BB523D99824000B2E9F /* LaunchScreen.storyboard */; };
 		835C3BC223D99824000B2E9F /* RedBullEyeTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835C3BC123D99824000B2E9F /* RedBullEyeTests.swift */; };
 		835C3BCD23D99824000B2E9F /* RedBullEyeUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 835C3BCC23D99824000B2E9F /* RedBullEyeUITests.swift */; };
+		835C3BDB23D9BEA6000B2E9F /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 835C3BDA23D9BEA6000B2E9F /* .gitignore */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		835C3BC823D99824000B2E9F /* RedBullEyeUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = RedBullEyeUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		835C3BCC23D99824000B2E9F /* RedBullEyeUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RedBullEyeUITests.swift; sourceTree = "<group>"; };
 		835C3BCE23D99824000B2E9F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		835C3BDA23D9BEA6000B2E9F /* .gitignore */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				835C3BAA23D99822000B2E9F /* AppDelegate.swift */,
 				835C3BAC23D99822000B2E9F /* SceneDelegate.swift */,
 				835C3BAE23D99822000B2E9F /* ContentView.swift */,
+				835C3BDA23D9BEA6000B2E9F /* .gitignore */,
 				835C3BB023D99824000B2E9F /* Assets.xcassets */,
 				835C3BB523D99824000B2E9F /* LaunchScreen.storyboard */,
 				835C3BB823D99824000B2E9F /* Info.plist */,
@@ -240,6 +243,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				835C3BDB23D9BEA6000B2E9F /* .gitignore in Resources */,
 				835C3BB723D99824000B2E9F /* LaunchScreen.storyboard in Resources */,
 				835C3BB423D99824000B2E9F /* Preview Assets.xcassets in Resources */,
 				835C3BB123D99824000B2E9F /* Assets.xcassets in Resources */,
